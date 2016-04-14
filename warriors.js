@@ -17,7 +17,7 @@ Warrior.prototype = {
             + opponent.power + " versus " + this.power + " power!");            
         }
     }
-}
+}   
 
 var warriorA = new Warrior("Dave","M")
 var warriorB = new Warrior("Grohl", "M")
